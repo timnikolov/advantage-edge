@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "advantage-edge"
+version = "1.0.0"
+description = "Edge-Native Contextual Intent Arbiter and Quality-Gated Monetization Engine for AI Overviews and YouTube Ads"
+authors = [
+    { name = "AdVantage-Edge Core Team", email = "antigravity@google.com" }
+]
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "pydantic>=2.0.0",
+    "httpx>=0.24.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = "test_*.py"

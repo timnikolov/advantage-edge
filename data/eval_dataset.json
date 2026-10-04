@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "TEST-001",
+    "input_text": "how to fix a noisy dishwasher pump impeller",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "DIY/repair"
+  },
+  {
+    "id": "TEST-002",
+    "input_text": "video timestamp unboxing and review of Sony WH-1000XM5 headphones",
+    "mode": "YOUTUBE_STREAM",
+    "timestamp": 124.5,
+    "channel_category": "Tech Reviews",
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_review"
+  },
+  {
+    "id": "TEST-003",
+    "input_text": "best cordless drill combo kit under $200 for woodworking",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_inquiry"
+  },
+  {
+    "id": "TEST-004",
+    "input_text": "where to buy replacement PEX pipe crimp tool near me",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "DIY/repair"
+  },
+  {
+    "id": "TEST-005",
+    "input_text": "best price for MacBook Pro M3 14 inch laptop deal",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_inquiry"
+  },
+  {
+    "id": "TEST-006",
+    "input_text": "Galaxy S24 Ultra vs iPhone 15 Pro Max camera test comparison",
+    "mode": "YOUTUBE_STREAM",
+    "timestamp": 450.0,
+    "channel_category": "Mobile Tech",
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_review"
+  },
+  {
+    "id": "TEST-007",
+    "input_text": "curved 4K gaming monitor 144Hz discount coupon",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_inquiry"
+  },
+  {
+    "id": "TEST-008",
+    "input_text": "mechanical RGB keyboard hot swappable wireless review",
+    "mode": "YOUTUBE_STREAM",
+    "timestamp": 88.0,
+    "channel_category": "Peripherals",
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_review"
+  },
+  {
+    "id": "TEST-009",
+    "input_text": "ergonomic wireless mouse price comparison Logitech MX",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_inquiry"
+  },
+  {
+    "id": "TEST-010",
+    "input_text": "smart watch series 9 battery life review and buy link",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_review"
+  },
+  {
+    "id": "TEST-011",
+    "input_text": "4k drone quadcopter dji fly more combo unboxing",
+    "mode": "YOUTUBE_STREAM",
+    "timestamp": 310.2,
+    "channel_category": "Drone Aerial",
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_review"
+  },
+  {
+    "id": "TEST-012",
+    "input_text": "outdoor security camera system wireless installation kit buy",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "DIY/repair"
+  },
+  {
+    "id": "TEST-013",
+    "input_text": "noise canceling earbuds pro Bose price",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_inquiry"
+  },
+  {
+    "id": "TEST-014",
+    "input_text": "high speed wifi 6e mesh router setup and best buy",
+    "mode": "YOUTUBE_STREAM",
+    "timestamp": 15.0,
+    "channel_category": "Home Networking",
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_inquiry"
+  },
+  {
+    "id": "TEST-015",
+    "input_text": "65 inch OLED 4K TV black friday deals",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_inquiry"
+  },
+  {
+    "id": "TEST-016",
+    "input_text": "portable bluetooth speaker waterproof JBL review",
+    "mode": "YOUTUBE_STREAM",
+    "timestamp": 67.4,
+    "channel_category": "Audio Gear",
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_review"
+  },
+  {
+    "id": "TEST-017",
+    "input_text": "VR headset oculus quest 3 order online",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_inquiry"
+  },
+  {
+    "id": "TEST-018",
+    "input_text": "1080p webcam streaming setup logitech buy",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_inquiry"
+  },
+  {
+    "id": "TEST-019",
+    "input_text": "usb-c hub adapter multi port macbook dongle buy",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_inquiry"
+  },
+  {
+    "id": "TEST-020",
+    "input_text": "kindle paperwhite e-reader price discount",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_inquiry"
+  },
+  {
+    "id": "TEST-021",
+    "input_text": "professional podcast condenser microphone blue yeti review",
+    "mode": "YOUTUBE_STREAM",
+    "timestamp": 195.0,
+    "channel_category": "Audio Tech",
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_review"
+  },
+  {
+    "id": "TEST-022",
+    "input_text": "internal 2TB NVMe SSD PS5 upgrade purchase",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_inquiry"
+  },
+  {
+    "id": "TEST-023",
+    "input_text": "magsafe wireless charging pad trio belkin shop",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_inquiry"
+  },
+  {
+    "id": "TEST-024",
+    "input_text": "waterproof trail running shoes salomon speedcross price",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_inquiry"
+  },
+  {
+    "id": "TEST-025",
+    "input_text": "lightweight down puffer jacket patagonia buy",
+    "mode": "YOUTUBE_STREAM",
+    "timestamp": 540.0,
+    "channel_category": "Outdoor Gear",
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_inquiry"
+  },
+  {
+    "id": "TEST-026",
+    "input_text": "levis 501 classic denim jeans size 32 dark wash sale",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_inquiry"
+  },
+  {
+    "id": "TEST-027",
+    "input_text": "polarized wayfarer sunglasses ray-ban order",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_inquiry"
+  },
+  {
+    "id": "TEST-028",
+    "input_text": "nike dri-fit athletic training shorts buy online",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_inquiry"
+  },
+  {
+    "id": "TEST-029",
+    "input_text": "genuine leather bifold wallet fossil price",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_inquiry"
+  },
+  {
+    "id": "TEST-030",
+    "input_text": "merino wool crew neck sweater uniqlo review",
+    "mode": "YOUTUBE_STREAM",
+    "timestamp": 112.0,
+    "channel_category": "Fashion Style",
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_review"
+  },
+  {
+    "id": "TEST-031",
+    "input_text": "seiko automatic chronograph watch stainless steel purchase",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_inquiry"
+  },
+  {
+    "id": "TEST-032",
+    "input_text": "carhartt heavy duty duck canvas work jacket buy",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_inquiry"
+  },
+  {
+    "id": "TEST-033",
+    "input_text": "osprey travel backpack 30L carry on price",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_inquiry"
+  },
+  {
+    "id": "TEST-034",
+    "input_text": "lululemon high waist yoga leggings review and discount",
+    "mode": "YOUTUBE_STREAM",
+    "timestamp": 230.5,
+    "channel_category": "Fitness Apparel",
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_review"
+  },
+  {
+    "id": "TEST-035",
+    "input_text": "allen edmonds leather dress oxford shoes order",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_inquiry"
+  },
+  {
+    "id": "TEST-036",
+    "input_text": "columbia waterproof rain coat jacket sale",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_inquiry"
+  },
+  {
+    "id": "TEST-037",
+    "input_text": "vans slip on canvas sneakers black white shop",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_inquiry"
+  },
+  {
+    "id": "TEST-038",
+    "input_text": "brooks brothers silk business necktie buy",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_inquiry"
+  },
+  {
+    "id": "TEST-039",
+    "input_text": "under armour thermal compression base layer buy",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_inquiry"
+  },
+  {
+    "id": "TEST-040",
+    "input_text": "coolibar wide brim sun protection hat buy",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_inquiry"
+  },
+  {
+    "id": "TEST-041",
+    "input_text": "champion fleece reverse weave hoodie price",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_inquiry"
+  },
+  {
+    "id": "TEST-042",
+    "input_text": "blundstone chelsea leather boots review",
+    "mode": "YOUTUBE_STREAM",
+    "timestamp": 400.0,
+    "channel_category": "Footwear",
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_review"
+  },
+  {
+    "id": "TEST-043",
+    "input_text": "adidas cotton baseball cap black price",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_inquiry"
+  },
+  {
+    "id": "TEST-044",
+    "input_text": "bowflex selectorized adjustable dumbbells 50lb sale",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_inquiry"
+  },
+  {
+    "id": "TEST-045",
+    "input_text": "nordictrack motorized treadmill foldable home gym buy",
+    "mode": "YOUTUBE_STREAM",
+    "timestamp": 320.0,
+    "channel_category": "Fitness Equipment",
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_inquiry"
+  },
+  {
+    "id": "TEST-046",
+    "input_text": "hydro flask insulated stainless water bottle price",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_inquiry"
+  },
+  {
+    "id": "TEST-047",
+    "input_text": "manduka yoga mat non slip 6mm review",
+    "mode": "YOUTUBE_STREAM",
+    "timestamp": 75.0,
+    "channel_category": "Yoga Life",
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_review"
+  },
+  {
+    "id": "TEST-048",
+    "input_text": "garmin gps cycling bike computer purchase",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_inquiry"
+  },
+  {
+    "id": "TEST-049",
+    "input_text": "peloton spinning indoor exercise bike order",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_inquiry"
+  },
+  {
+    "id": "TEST-050",
+    "input_text": "trx heavy duty resistance bands set buy",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_inquiry"
+  },
+  {
+    "id": "TEST-051",
+    "input_text": "selkirk pro carbon fiber pickleball paddle review",
+    "mode": "YOUTUBE_STREAM",
+    "timestamp": 180.0,
+    "channel_category": "Pickleball Channel",
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_review"
+  },
+  {
+    "id": "TEST-052",
+    "input_text": "coleman 4-person camping tent waterproof price",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_inquiry"
+  },
+  {
+    "id": "TEST-053",
+    "input_text": "therm-a-rest self inflating sleeping pad buy",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_inquiry"
+  },
+  {
+    "id": "TEST-054",
+    "input_text": "wilson pro staff tennis racket 100 sq in order",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_inquiry"
+  },
+  {
+    "id": "TEST-055",
+    "input_text": "theragun deep tissue percussion massager discount",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_inquiry"
+  },
+  {
+    "id": "TEST-056",
+    "input_text": "essential oil diffuser ultrasonic urpower buy",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_inquiry"
+  },
+  {
+    "id": "TEST-057",
+    "input_text": "charlotte's web cbd oil tincture 1000mg price",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_inquiry"
+  },
+  {
+    "id": "TEST-058",
+    "input_text": "ynm weighted blanket 15lbs queen size review",
+    "mode": "YOUTUBE_STREAM",
+    "timestamp": 90.0,
+    "channel_category": "Home Wellness",
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_review"
+  },
+  {
+    "id": "TEST-059",
+    "input_text": "philips sonicare electric toothbrush 4 modes buy",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_inquiry"
+  },
+  {
+    "id": "TEST-060",
+    "input_text": "brita 10-cup water filter pitcher price",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_inquiry"
+  },
+  {
+    "id": "TEST-061",
+    "input_text": "levoit quiet room HEPA air purifier buy",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_inquiry"
+  },
+  {
+    "id": "TEST-062",
+    "input_text": "noco boost portable car jump starter 2000A purchase",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_inquiry"
+  },
+  {
+    "id": "TEST-063",
+    "input_text": "autel obd2 scanner code reader diagnostic buy",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_inquiry"
+  },
+  {
+    "id": "TEST-064",
+    "input_text": "mobil 1 synthetic motor oil 5w-30 5 quart price",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_inquiry"
+  },
+  {
+    "id": "TEST-065",
+    "input_text": "astroai digital tire pressure gauge buy",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_inquiry"
+  },
+  {
+    "id": "TEST-066",
+    "input_text": "weathertech all-weather rubber floor mats order",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_inquiry"
+  },
+  {
+    "id": "TEST-067",
+    "input_text": "dewalt cordless tire inflator air compressor price",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_inquiry"
+  },
+  {
+    "id": "TEST-068",
+    "input_text": "viofo 4K dash cam front and rear dual lens buy",
+    "mode": "YOUTUBE_STREAM",
+    "timestamp": 512.0,
+    "channel_category": "Auto Electronics",
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_inquiry"
+  },
+  {
+    "id": "TEST-069",
+    "input_text": "brembo ceramic brake pads set replacement purchase",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "DIY/repair"
+  },
+  {
+    "id": "TEST-070",
+    "input_text": "chemical guys car wash detailing kit 12-piece buy",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": true,
+    "expected_sensitive": false,
+    "ground_truth_category": "product_inquiry"
+  },
+  {
+    "id": "TEST-071",
+    "input_text": "first aid response for acute cardiac arrest and heart attack symptoms",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": false,
+    "expected_sensitive": true,
+    "ground_truth_category": "medical_emergency"
+  },
+  {
+    "id": "TEST-072",
+    "input_text": "emergency procedure when someone is unconscious after drug overdose",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": false,
+    "expected_sensitive": true,
+    "ground_truth_category": "medical_emergency"
+  },
+  {
+    "id": "TEST-073",
+    "input_text": "video timestamp during a tragic documentary scene discussing death and grief",
+    "mode": "YOUTUBE_STREAM",
+    "timestamp": 150.0,
+    "channel_category": "Documentary & News",
+    "expected_commercial": false,
+    "expected_sensitive": true,
+    "ground_truth_category": "tragedy_violence"
+  },
+  {
+    "id": "TEST-074",
+    "input_text": "how to handle severe chest pain before ambulance arrives",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": false,
+    "expected_sensitive": true,
+    "ground_truth_category": "medical_emergency"
+  },
+  {
+    "id": "TEST-075",
+    "input_text": "crisis hotline numbers for self-harm and severe depression",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": false,
+    "expected_sensitive": true,
+    "ground_truth_category": "mental_health_crisis"
+  },
+  {
+    "id": "TEST-076",
+    "input_text": "breaking news live coverage of mass shooting incident",
+    "mode": "YOUTUBE_STREAM",
+    "timestamp": 150.0,
+    "channel_category": "Documentary & News",
+    "expected_commercial": false,
+    "expected_sensitive": true,
+    "ground_truth_category": "tragedy_violence"
+  },
+  {
+    "id": "TEST-077",
+    "input_text": "fatal car crash scene footage on highway",
+    "mode": "YOUTUBE_STREAM",
+    "timestamp": 150.0,
+    "channel_category": "Documentary & News",
+    "expected_commercial": false,
+    "expected_sensitive": true,
+    "ground_truth_category": "tragedy_violence"
+  },
+  {
+    "id": "TEST-078",
+    "input_text": "presidential candidate debate on election riot and ballot fraud",
+    "mode": "YOUTUBE_STREAM",
+    "timestamp": 150.0,
+    "channel_category": "Documentary & News",
+    "expected_commercial": false,
+    "expected_sensitive": true,
+    "ground_truth_category": "political_debate"
+  },
+  {
+    "id": "TEST-079",
+    "input_text": "legal advice for arrest warrant and upcoming criminal indictment trial",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": false,
+    "expected_sensitive": true,
+    "ground_truth_category": "legal_distress"
+  },
+  {
+    "id": "TEST-080",
+    "input_text": "emergency treatment for stroke symptoms FAST protocol",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": false,
+    "expected_sensitive": true,
+    "ground_truth_category": "medical_emergency"
+  },
+  {
+    "id": "TEST-081",
+    "input_text": "how to assist someone choking on food er doctor tips",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": false,
+    "expected_sensitive": true,
+    "ground_truth_category": "medical_emergency"
+  },
+  {
+    "id": "TEST-082",
+    "input_text": "coping with sudden grief after loss of family member funeral",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": false,
+    "expected_sensitive": true,
+    "ground_truth_category": "tragedy_violence"
+  },
+  {
+    "id": "TEST-083",
+    "input_text": "plane crash investigation report documentary footage",
+    "mode": "YOUTUBE_STREAM",
+    "timestamp": 150.0,
+    "channel_category": "Documentary & News",
+    "expected_commercial": false,
+    "expected_sensitive": true,
+    "ground_truth_category": "tragedy_violence"
+  },
+  {
+    "id": "TEST-084",
+    "input_text": "terrorist attack hostage negotiation documentary",
+    "mode": "YOUTUBE_STREAM",
+    "timestamp": 150.0,
+    "channel_category": "Documentary & News",
+    "expected_commercial": false,
+    "expected_sensitive": true,
+    "ground_truth_category": "tragedy_violence"
+  },
+  {
+    "id": "TEST-085",
+    "input_text": "partisan campaign speech accusing opponent of treason",
+    "mode": "YOUTUBE_STREAM",
+    "timestamp": 150.0,
+    "channel_category": "Documentary & News",
+    "expected_commercial": false,
+    "expected_sensitive": true,
+    "ground_truth_category": "political_debate"
+  },
+  {
+    "id": "TEST-086",
+    "input_text": "child custody dispute legal battle court summons",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": false,
+    "expected_sensitive": true,
+    "ground_truth_category": "legal_distress"
+  },
+  {
+    "id": "TEST-087",
+    "input_text": "lawsuit summons for corporate fraud case filing",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": false,
+    "expected_sensitive": true,
+    "ground_truth_category": "legal_distress"
+  },
+  {
+    "id": "TEST-088",
+    "input_text": "prison sentence appeal process in high court",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": false,
+    "expected_sensitive": true,
+    "ground_truth_category": "legal_distress"
+  },
+  {
+    "id": "TEST-089",
+    "input_text": "war zone frontline shelling news live stream",
+    "mode": "YOUTUBE_STREAM",
+    "timestamp": 150.0,
+    "channel_category": "Documentary & News",
+    "expected_commercial": false,
+    "expected_sensitive": true,
+    "ground_truth_category": "tragedy_violence"
+  },
+  {
+    "id": "TEST-090",
+    "input_text": "homicide investigation crime scene evidence collection",
+    "mode": "YOUTUBE_STREAM",
+    "timestamp": 150.0,
+    "channel_category": "Documentary & News",
+    "expected_commercial": false,
+    "expected_sensitive": true,
+    "ground_truth_category": "tragedy_violence"
+  },
+  {
+    "id": "TEST-091",
+    "input_text": "what to do if someone is experiencing anaphylactic shock emergency",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": false,
+    "expected_sensitive": true,
+    "ground_truth_category": "medical_emergency"
+  },
+  {
+    "id": "TEST-092",
+    "input_text": "signs of severe hypothermia in mountain rescue emergency",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": false,
+    "expected_sensitive": true,
+    "ground_truth_category": "medical_emergency"
+  },
+  {
+    "id": "TEST-093",
+    "input_text": "crisis support for adolescent self-harm risk",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": false,
+    "expected_sensitive": true,
+    "ground_truth_category": "mental_health_crisis"
+  },
+  {
+    "id": "TEST-094",
+    "input_text": "political scandal breaking story in senate hearing",
+    "mode": "YOUTUBE_STREAM",
+    "timestamp": 150.0,
+    "channel_category": "Documentary & News",
+    "expected_commercial": false,
+    "expected_sensitive": true,
+    "ground_truth_category": "political_debate"
+  },
+  {
+    "id": "TEST-095",
+    "input_text": "election tampering allegation in swing state voting",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": false,
+    "expected_sensitive": true,
+    "ground_truth_category": "political_debate"
+  },
+  {
+    "id": "TEST-096",
+    "input_text": "fatal explosion at industrial chemical facility",
+    "mode": "YOUTUBE_STREAM",
+    "timestamp": 150.0,
+    "channel_category": "Documentary & News",
+    "expected_commercial": false,
+    "expected_sensitive": true,
+    "ground_truth_category": "tragedy_violence"
+  },
+  {
+    "id": "TEST-097",
+    "input_text": "grief counseling resources for widowed spouses",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": false,
+    "expected_sensitive": true,
+    "ground_truth_category": "tragedy_violence"
+  },
+  {
+    "id": "TEST-098",
+    "input_text": "legal defense strategy for felony assault charge",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": false,
+    "expected_sensitive": true,
+    "ground_truth_category": "legal_distress"
+  },
+  {
+    "id": "TEST-099",
+    "input_text": "police pursuit ending in multi car fatal accident",
+    "mode": "YOUTUBE_STREAM",
+    "timestamp": 150.0,
+    "channel_category": "Documentary & News",
+    "expected_commercial": false,
+    "expected_sensitive": true,
+    "ground_truth_category": "tragedy_violence"
+  },
+  {
+    "id": "TEST-100",
+    "input_text": "high tension courtroom testimony during murder trial",
+    "mode": "YOUTUBE_STREAM",
+    "timestamp": 150.0,
+    "channel_category": "Documentary & News",
+    "expected_commercial": false,
+    "expected_sensitive": true,
+    "ground_truth_category": "tragedy_violence"
+  },
+  {
+    "id": "TEST-101",
+    "input_text": "acute respiratory failure emergency ventilation steps",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": false,
+    "expected_sensitive": true,
+    "ground_truth_category": "medical_emergency"
+  },
+  {
+    "id": "TEST-102",
+    "input_text": "emergency burn unit treatment for third degree burns",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": false,
+    "expected_sensitive": true,
+    "ground_truth_category": "medical_emergency"
+  },
+  {
+    "id": "TEST-103",
+    "input_text": "depression crisis intervention tactics for family members",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": false,
+    "expected_sensitive": true,
+    "ground_truth_category": "mental_health_crisis"
+  },
+  {
+    "id": "TEST-104",
+    "input_text": "congressional hearing on election security breaches",
+    "mode": "YOUTUBE_STREAM",
+    "timestamp": 150.0,
+    "channel_category": "Documentary & News",
+    "expected_commercial": false,
+    "expected_sensitive": true,
+    "ground_truth_category": "political_debate"
+  },
+  {
+    "id": "TEST-105",
+    "input_text": "garnishment order legal distress summons response",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": false,
+    "expected_sensitive": true,
+    "ground_truth_category": "legal_distress"
+  },
+  {
+    "id": "TEST-106",
+    "input_text": "mass casualty event triage protocol for first responders",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": false,
+    "expected_sensitive": true,
+    "ground_truth_category": "medical_emergency"
+  },
+  {
+    "id": "TEST-107",
+    "input_text": "suicide prevention hotline text service availability",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": false,
+    "expected_sensitive": true,
+    "ground_truth_category": "mental_health_crisis"
+  },
+  {
+    "id": "TEST-108",
+    "input_text": "trench collapse rescue operation emergency response",
+    "mode": "YOUTUBE_STREAM",
+    "timestamp": 150.0,
+    "channel_category": "Documentary & News",
+    "expected_commercial": false,
+    "expected_sensitive": true,
+    "ground_truth_category": "tragedy_violence"
+  },
+  {
+    "id": "TEST-109",
+    "input_text": "arson homicide trial opening statements",
+    "mode": "YOUTUBE_STREAM",
+    "timestamp": 150.0,
+    "channel_category": "Documentary & News",
+    "expected_commercial": false,
+    "expected_sensitive": true,
+    "ground_truth_category": "tragedy_violence"
+  },
+  {
+    "id": "TEST-110",
+    "input_text": "emergency legal injunction against eviction notice",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": false,
+    "expected_sensitive": true,
+    "ground_truth_category": "legal_distress"
+  },
+  {
+    "id": "TEST-111",
+    "input_text": "what is the capital of Switzerland",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": false,
+    "expected_sensitive": false,
+    "ground_truth_category": "informational"
+  },
+  {
+    "id": "TEST-112",
+    "input_text": "history of the Roman Empire timeline overview",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": false,
+    "expected_sensitive": false,
+    "ground_truth_category": "informational"
+  },
+  {
+    "id": "TEST-113",
+    "input_text": "explanation of quantum entanglement in simple terms",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": false,
+    "expected_sensitive": false,
+    "ground_truth_category": "informational"
+  },
+  {
+    "id": "TEST-114",
+    "input_text": "what is the chemical formula for photosynthesis",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": false,
+    "expected_sensitive": false,
+    "ground_truth_category": "informational"
+  },
+  {
+    "id": "TEST-115",
+    "input_text": "how does gravity warp spacetime according to general relativity",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": false,
+    "expected_sensitive": false,
+    "ground_truth_category": "informational"
+  },
+  {
+    "id": "TEST-116",
+    "input_text": "distance from Earth to the Moon in kilometers",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": false,
+    "expected_sensitive": false,
+    "ground_truth_category": "informational"
+  },
+  {
+    "id": "TEST-117",
+    "input_text": "what is the population of Tokyo in 2026",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": false,
+    "expected_sensitive": false,
+    "ground_truth_category": "informational"
+  },
+  {
+    "id": "TEST-118",
+    "input_text": "meaning of Schr\u00f6dinger's cat paradox in quantum mechanics",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": false,
+    "expected_sensitive": false,
+    "ground_truth_category": "informational"
+  },
+  {
+    "id": "TEST-119",
+    "input_text": "chemical symbol for gold on the periodic table",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": false,
+    "expected_sensitive": false,
+    "ground_truth_category": "informational"
+  },
+  {
+    "id": "TEST-120",
+    "input_text": "python syntax for list comprehensions with conditions",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": false,
+    "expected_sensitive": false,
+    "ground_truth_category": "informational"
+  },
+  {
+    "id": "TEST-121",
+    "input_text": "who invented the printing press in Europe",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": false,
+    "expected_sensitive": false,
+    "ground_truth_category": "informational"
+  },
+  {
+    "id": "TEST-122",
+    "input_text": "how do solar eclipses occur diagram explanation",
+    "mode": "YOUTUBE_STREAM",
+    "timestamp": 45.0,
+    "channel_category": "Educational Science",
+    "expected_commercial": false,
+    "expected_sensitive": false,
+    "ground_truth_category": "informational"
+  },
+  {
+    "id": "TEST-123",
+    "input_text": "what is the speed of light in a vacuum",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": false,
+    "expected_sensitive": false,
+    "ground_truth_category": "informational"
+  },
+  {
+    "id": "TEST-124",
+    "input_text": "overview of the French Revolution major causes",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": false,
+    "expected_sensitive": false,
+    "ground_truth_category": "informational"
+  },
+  {
+    "id": "TEST-125",
+    "input_text": "difference between DNA and RNA biological structure",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": false,
+    "expected_sensitive": false,
+    "ground_truth_category": "informational"
+  },
+  {
+    "id": "TEST-126",
+    "input_text": "how does photosynthesis convert light into glucose",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": false,
+    "expected_sensitive": false,
+    "ground_truth_category": "informational"
+  },
+  {
+    "id": "TEST-127",
+    "input_text": "what are Newton's three laws of motion with examples",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": false,
+    "expected_sensitive": false,
+    "ground_truth_category": "informational"
+  },
+  {
+    "id": "TEST-128",
+    "input_text": "definition of inflation in macroeconomics",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": false,
+    "expected_sensitive": false,
+    "ground_truth_category": "informational"
+  },
+  {
+    "id": "TEST-129",
+    "input_text": "how do volcanoes form at tectonic plate boundaries",
+    "mode": "YOUTUBE_STREAM",
+    "timestamp": 45.0,
+    "channel_category": "Educational Science",
+    "expected_commercial": false,
+    "expected_sensitive": false,
+    "ground_truth_category": "informational"
+  },
+  {
+    "id": "TEST-130",
+    "input_text": "what is the deepest trench in the world ocean",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": false,
+    "expected_sensitive": false,
+    "ground_truth_category": "informational"
+  },
+  {
+    "id": "TEST-131",
+    "input_text": "who painted the Mona Lisa during the Renaissance",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": false,
+    "expected_sensitive": false,
+    "ground_truth_category": "informational"
+  },
+  {
+    "id": "TEST-132",
+    "input_text": "how does the human immune system recognize antigens",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": false,
+    "expected_sensitive": false,
+    "ground_truth_category": "informational"
+  },
+  {
+    "id": "TEST-133",
+    "input_text": "what causes ocean tides lunar gravity explanation",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": false,
+    "expected_sensitive": false,
+    "ground_truth_category": "informational"
+  },
+  {
+    "id": "TEST-134",
+    "input_text": "difference between mitosis and meiosis cell division",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": false,
+    "expected_sensitive": false,
+    "ground_truth_category": "informational"
+  },
+  {
+    "id": "TEST-135",
+    "input_text": "what is the Fibonacci sequence mathematical definition",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": false,
+    "expected_sensitive": false,
+    "ground_truth_category": "informational"
+  },
+  {
+    "id": "TEST-136",
+    "input_text": "how do rainbows form light refraction through water droplets",
+    "mode": "YOUTUBE_STREAM",
+    "timestamp": 45.0,
+    "channel_category": "Educational Science",
+    "expected_commercial": false,
+    "expected_sensitive": false,
+    "ground_truth_category": "informational"
+  },
+  {
+    "id": "TEST-137",
+    "input_text": "what is the capital city of Australia",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": false,
+    "expected_sensitive": false,
+    "ground_truth_category": "informational"
+  },
+  {
+    "id": "TEST-138",
+    "input_text": "overview of the Magna Carta historical significance",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": false,
+    "expected_sensitive": false,
+    "ground_truth_category": "informational"
+  },
+  {
+    "id": "TEST-139",
+    "input_text": "how does nuclear fusion power the Sun",
+    "mode": "YOUTUBE_STREAM",
+    "timestamp": 45.0,
+    "channel_category": "Educational Science",
+    "expected_commercial": false,
+    "expected_sensitive": false,
+    "ground_truth_category": "informational"
+  },
+  {
+    "id": "TEST-140",
+    "input_text": "what is the boiling point of water at high altitude",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": false,
+    "expected_sensitive": false,
+    "ground_truth_category": "informational"
+  },
+  {
+    "id": "TEST-141",
+    "input_text": "who wrote the plays Hamlet and Macbeth",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": false,
+    "expected_sensitive": false,
+    "ground_truth_category": "informational"
+  },
+  {
+    "id": "TEST-142",
+    "input_text": "how do airplanes generate lift Bernoulli principle",
+    "mode": "YOUTUBE_STREAM",
+    "timestamp": 45.0,
+    "channel_category": "Educational Science",
+    "expected_commercial": false,
+    "expected_sensitive": false,
+    "ground_truth_category": "informational"
+  },
+  {
+    "id": "TEST-143",
+    "input_text": "what is the function of mitochondria in human cells",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": false,
+    "expected_sensitive": false,
+    "ground_truth_category": "informational"
+  },
+  {
+    "id": "TEST-144",
+    "input_text": "what is the atomic number of carbon",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": false,
+    "expected_sensitive": false,
+    "ground_truth_category": "informational"
+  },
+  {
+    "id": "TEST-145",
+    "input_text": "how does binary code represent numbers and text",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": false,
+    "expected_sensitive": false,
+    "ground_truth_category": "informational"
+  },
+  {
+    "id": "TEST-146",
+    "input_text": "what is the largest desert in the world",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": false,
+    "expected_sensitive": false,
+    "ground_truth_category": "informational"
+  },
+  {
+    "id": "TEST-147",
+    "input_text": "how does the water cycle circulate moisture globally",
+    "mode": "YOUTUBE_STREAM",
+    "timestamp": 45.0,
+    "channel_category": "Educational Science",
+    "expected_commercial": false,
+    "expected_sensitive": false,
+    "ground_truth_category": "informational"
+  },
+  {
+    "id": "TEST-148",
+    "input_text": "what is the architectural design of Gothic cathedrals",
+    "mode": "YOUTUBE_STREAM",
+    "timestamp": 45.0,
+    "channel_category": "Educational Science",
+    "expected_commercial": false,
+    "expected_sensitive": false,
+    "ground_truth_category": "informational"
+  },
+  {
+    "id": "TEST-149",
+    "input_text": "how do bees communicate using the waggle dance",
+    "mode": "YOUTUBE_STREAM",
+    "timestamp": 45.0,
+    "channel_category": "Educational Science",
+    "expected_commercial": false,
+    "expected_sensitive": false,
+    "ground_truth_category": "informational"
+  },
+  {
+    "id": "TEST-150",
+    "input_text": "what is the distance from Earth to Mars on average",
+    "mode": "SEARCH",
+    "timestamp": null,
+    "channel_category": null,
+    "expected_commercial": false,
+    "expected_sensitive": false,
+    "ground_truth_category": "informational"
+  }
+]
